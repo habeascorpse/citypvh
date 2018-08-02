@@ -1,5 +1,4 @@
-module.exports = {
-  db : [
+module.exports =  [
     {
       "nome": "Centro de Saúde Agenor de Carvalho",
       "horarioAtendimento":"Segunda a Sexta das 6h as 14h",
@@ -56,5 +55,4 @@ module.exports = {
       "imagem":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2z1Pa3jfAJ973ECE8hr7VwKX0iP2hH0kLWUqTLQBN-1-41kjaew",
       "especialidades": ["dentista", "fisioterapia","ortopedia"]
     }
-  ]
-}
+];
